@@ -1,3 +1,4 @@
+#switch for Milan
 import numpy as np
 import nkpack as nk
 from time import time,sleep
