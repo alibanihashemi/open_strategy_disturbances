@@ -20,6 +20,5 @@ Open Strategy is a novel strategy-making approach emphasizing stakeholder inclus
 - **Results:** Outcomes and findings from our research.
 - **Discussion:** Implications, potential reasons, and a deeper understanding of results.
 - **Conclusion:** Final thoughts and future research directions.
-![Results]([https://github.com/alibanihashemi/ReactCalculator/assets/103768578/3a86fba7-c4ea-4849-a0b3-5d44f7780d5b](https://github.com/alibanihashemi/open_strategy_disturbances/issues/1#issue-1863179377))
 
 Feel free to explore the code, datasets, and simulations associated with this study in the respective folders. If you have any questions or would like to collaborate, please open an issue or submit a pull request.
